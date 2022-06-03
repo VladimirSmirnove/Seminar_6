@@ -1,0 +1,15 @@
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/bin/Debug/net6.0/Task_43
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/bin/Debug/net6.0/Task_43.deps.json
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/bin/Debug/net6.0/Task_43.runtimeconfig.json
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/bin/Debug/net6.0/Task_43.dll
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/bin/Debug/net6.0/Task_43.pdb
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/obj/Debug/net6.0/Task_43.csproj.AssemblyReference.cache
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/obj/Debug/net6.0/Task_43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/obj/Debug/net6.0/Task_43.AssemblyInfoInputs.cache
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/obj/Debug/net6.0/Task_43.AssemblyInfo.cs
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/obj/Debug/net6.0/Task_43.csproj.CoreCompileInputs.cache
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/obj/Debug/net6.0/Task_43.dll
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/obj/Debug/net6.0/refint/Task_43.dll
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/obj/Debug/net6.0/Task_43.pdb
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/obj/Debug/net6.0/Task_43.genruntimeconfig.cache
+/Users/inferno163/Documents/Учеба/ДЗ/C#/Seminar6/Task_43/obj/Debug/net6.0/ref/Task_43.dll
